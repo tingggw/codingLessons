@@ -1,2 +1,2 @@
 # codingLessons
-This is for lessons with Ahmet
+Work for the lessons with Ahmet.
